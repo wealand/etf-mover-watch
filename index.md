@@ -1,62 +1,66 @@
-# Daily ETF Movers Watch - 2025-12-25
+# Daily ETF Movers Watch - 2025-12-26
 
 ## Top 5 ETF Gainers
-### 1. KOLD
-- **Price:** $34.50
-- **Change:** +4.96%
-- **Analysis:** KOLD is an exchange-traded note (ETN) that tracks the **inverse daily performance of natural gas futures**. Its rise suggests a significant decline in natural gas prices, likely driven by mild weather forecasts reducing demand and continued strong production contributing to ample supply.
-
-### 2. LABU
-- **Price:** $177.45
-- **Change:** +3.34%
-- **Analysis:** LABU tracks the **biotechnology sector**.
-
-The move likely reflects increased investor appetite for growth-oriented sectors amid a broader "risk-on" market sentiment, potentially driven by expectations of easing monetary policy.
-
-### 3. NAIL
-- **Price:** $52.47
-- **Change:** +2.72%
-- **Analysis:** The Direxion Daily Homebuilders & Supplies Bull 3X Shares (NAIL) tracks the **homebuilding and construction supplies sector**.
-
-This move is likely due to market optimism surrounding a potential easing of interest rates, which would reduce mortgage costs and boost demand for new homes.
-
-### 4. EWY
-- **Price:** $94.60
-- **Change:** +2.05%
-- **Analysis:** EWY tracks the performance of **South Korean equities**.
-
-This move likely reflects strong global demand for semiconductors, driven by the ongoing AI boom, which heavily benefits South Korea's export-oriented, tech-dominant economy.
-
-### 5. DRN
-- **Price:** $8.59
-- **Change:** +1.90%
-- **Analysis:** DRN tracks the **inverse performance of the real estate sector** (specifically, 3x leveraged inverse). Its rise likely reflects investor concerns over the negative impact of rising interest rates on property valuations and the broader real estate market.
-
-## Top 5 ETF Losers
 ### 1. PALL
-- **Price:** $156.50
-- **Change:** -7.51%
-- **Analysis:** PALL tracks **palladium**, a precious metal commodity.
+- **Price:** $175.91
+- **Change:** +12.40%
+- **Analysis:** The ETF PALL tracks **Palladium**, a precious metal commodity.
 
-The decline likely reflects ongoing concerns about slowing global industrial demand, particularly from the automotive sector, a major user of palladium.
+Its significant rise is likely due to short covering and an improved outlook for industrial demand, particularly from the automotive sector, following a period of multi-year lows for the metal.
 
-### 2. BOIL
-- **Price:** $23.87
-- **Change:** -4.94%
-- **Analysis:** Analysis unavailable due to error.
+### 2. SLV
+- **Price:** $71.12
+- **Change:** +9.05%
+- **Analysis:** SLV tracks the **commodity silver**.
 
-### 3. UNG
-- **Price:** $12.39
-- **Change:** -3.95%
-- **Analysis:** Analysis unavailable due to error.
+The move is likely due to increasing market expectations for future interest rate cuts, which boosts the appeal of non-yielding assets like silver.
 
-### 4. LABD
-- **Price:** $19.01
-- **Change:** -3.11%
-- **Analysis:** Analysis unavailable due to error.
+### 3. PPLT
+- **Price:** $220.14
+- **Change:** +7.64%
+- **Analysis:** PPLT tracks the price of **platinum**.
+
+The move is likely driven by renewed market expectations of interest rate cuts by central banks, which typically boosts non-yielding assets like precious metals by reducing their opportunity cost.
+
+### 4. BOIL
+- **Price:** $25.19
+- **Change:** +5.53%
+- **Analysis:** The ETF BOIL tracks **natural gas prices**.
+
+The move is likely due to rising natural gas prices, driven by forecasts for increased demand for power generation during anticipated hotter weather.
 
 ### 5. JNUG
-- **Price:** $227.14
-- **Change:** -2.16%
+- **Price:** $237.80
+- **Change:** +4.69%
+- **Analysis:** JNUG (Direxion Daily Junior Gold Miners Index Bull 2X Shares) tracks **leveraged (2x) daily long exposure to the junior gold miners sector**.
+
+The move likely reflects a rally in gold prices, driven by increased market expectations for imminent interest rate cuts by central banks, which decreases the opportunity cost of holding gold.
+
+## Top 5 ETF Losers
+### 1. KOLD
+- **Price:** $32.62
+- **Change:** -5.45%
+- **Analysis:** KOLD tracks the **inverse daily performance of natural gas futures**, making it a leveraged inverse commodity ETF.
+
+KOLD's decline suggests a significant increase in natural gas prices, likely spurred by recent colder weather forecasts driving up heating demand.
+
+### 2. JDST
+- **Price:** $2.34
+- **Change:** -3.70%
+- **Analysis:** Analysis unavailable due to error.
+
+### 3. LABU
+- **Price:** $171.50
+- **Change:** -3.35%
+- **Analysis:** Analysis unavailable due to error.
+
+### 4. VNM
+- **Price:** $18.40
+- **Change:** -3.21%
+- **Analysis:** Analysis unavailable due to error.
+
+### 5. DUST
+- **Price:** $6.66
+- **Change:** -3.20%
 - **Analysis:** Analysis unavailable due to error.
 
