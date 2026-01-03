@@ -46,7 +46,7 @@ def analyze_mover(ticker, change, is_configured):
     if not is_configured:
         return "Analysis unavailable (API key missing)."
 
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-2.5-flash')
     direction = "up" if change > 0 else "down"
     prompt = (
         f"The ETF {ticker} is {direction} by {abs(change):.2f}% in the last trading session. "
