@@ -46,7 +46,7 @@ def analyze_mover(ticker, change, is_configured):
     if not is_configured:
         return "Analysis unavailable (API key missing)."
 
-    model = genai.GenerativeModel('gemini-2.5-flash')
+    model = genai.GenerativeModel('gemini-1.5-flash')
     direction = "up" if change > 0 else "down"
     prompt = (
         f"The ETF {ticker} is {direction} by {abs(change):.2f}% in the last trading session. "
@@ -57,11 +57,11 @@ def analyze_mover(ticker, change, is_configured):
     
     try:
         response = model.generate_content(prompt)
-        time.sleep(1) # Rate limit protection
+        time.sleep(4) # Rate limit protection (15 RPM = 4s/req)
         return response.text.strip()
     except Exception as e:
         print(f"Error analyzing {ticker}: {e}")
-        return "Analysis unavailable due to error."
+        return f"Analysis unavailable due to error: {e}"
 
 def get_etf_movers():
     print(f"Fetching data for {len(ETF_TICKERS)} ETFs...")
