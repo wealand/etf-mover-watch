@@ -61,7 +61,12 @@ def analyze_mover(ticker, change, is_configured):
         return response.text.strip()
     except Exception as e:
         print(f"Error analyzing {ticker}: {e}")
-        return f"Analysis unavailable due to error: {e}"
+        try:
+            # Try to list available models to help debug 404s
+            available_models = [m.name for m in genai.list_models() if 'generateContent' in m.supported_generation_methods]
+            return f"Error: {e}. Available: {available_models}"
+        except Exception as e2:
+            return f"Error: {e}. (List check failed: {e2})"
 
 def get_etf_movers():
     print(f"Fetching data for {len(ETF_TICKERS)} ETFs...")
