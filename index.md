@@ -1,72 +1,150 @@
-# Daily ETF Movers Watch - 2026-01-20
+# Daily ETF Movers Watch - 2026-01-21
 
 ## Top 5 ETF Gainers
 ### 1. BOIL
-- **Price:** $22.44
-- **Change:** +36.66%
-- **Analysis:** The ETF BOIL tracks **Natural Gas futures**.
+- **Price:** $27.00
+- **Change:** +20.32%
+- **Analysis:** The ETF BOIL tracks **natural gas futures contracts**.
 
-This significant surge is likely due to recent forecasts of colder-than-expected weather, increasing demand expectations for natural gas.
+The significant move is likely due to updated forecasts for colder weather, increasing demand for natural gas heating.
 
 ### 2. UNG
-- **Price:** $12.37
-- **Change:** +19.75%
-- **Analysis:** The ETF UNG tracks **Natural Gas** (a commodity).
+- **Price:** $13.64
+- **Change:** +10.27%
+- **Analysis:** UNG tracks **natural gas**.
 
-This move is likely due to recent forecasts of significantly colder weather across key demand regions, which are expected to boost heating demand for natural gas.
+The likely reason for this move is recent forecasts for **intense heatwaves across the US, boosting demand for natural gas in power generation.**
 
-### 3. UVXY
-- **Price:** $41.51
-- **Change:** +16.80%
-- **Analysis:** The ETF UVXY tracks **general market volatility**, specifically through leveraged short-term VIX futures.
+### 3. SOXL
+- **Price:** $63.48
+- **Change:** +9.56%
+- **Analysis:** SOXL tracks a 3x leveraged index of semiconductor companies.
 
-This significant jump likely reflects a sharp increase in market fear and uncertainty, often triggered by concerns over economic slowdowns, persistent inflation, or a broad market sell-off.
+This move likely reflects continued optimism for the Artificial Intelligence sector and a more favorable interest rate outlook, both significantly boosting growth-oriented semiconductor stocks.
 
-### 4. JNUG
-- **Price:** $291.91
-- **Change:** +12.80%
-- **Analysis:** JNUG tracks a **leveraged daily performance of junior gold mining companies.**
+### 4. NAIL
+- **Price:** $68.59
+- **Change:** +7.98%
+- **Analysis:** The ETF NAIL tracks the **Homebuilding and Supplies sector** (specifically 3x leveraged exposure to the Dow Jones U.S. Select Home Construction Index). Its recent surge is likely due to increased market expectations for lower interest rates, which would improve housing affordability and demand for new homes.
 
-This surge likely reflects a significant increase in gold prices, driven by expectations of lower interest rates or heightened geopolitical uncertainty boosting safe-haven demand.
+### 5. GUSH
+- **Price:** $24.69
+- **Change:** +7.53%
+- **Analysis:** The ETF GUSH tracks the **Oil & Gas Exploration & Production sector**.
 
-### 5. NUGT
-- **Price:** $261.77
-- **Change:** +11.43%
-- **Analysis:** NUGT tracks the **gold mining sector**, providing leveraged daily exposure to gold mining companies. This likely reflects a significant increase in gold prices, driven by renewed **expectations of interest rate cuts** by central banks or heightened **safe-haven demand** due due to global economic uncertainties.
+The likely reason for this move is a significant increase in crude oil prices, driven by tightening global supply expectations or an improved demand outlook.
 
 ## Top 5 ETF Losers
 ### 1. KOLD
-- **Price:** $27.89
-- **Change:** -38.35%
-- **Analysis:** The ETF KOLD tracks **natural gas futures**, specifically providing leveraged inverse exposure (it goes up when natural gas goes down).
+- **Price:** $22.40
+- **Change:** -19.68%
+- **Analysis:** KOLD tracks **natural gas** (a commodity) with an inverse and leveraged strategy. Its significant drop is likely due to a surge in natural gas prices, driven by forecasts of colder weather increasing heating demand.
 
-Its sharp decline of 38.35% reflects a significant rally in natural gas prices, likely driven by recent forecasts for hotter summer weather increasing demand for power generation.
+### 2. UVXY
+- **Price:** $35.78
+- **Change:** -13.80%
+- **Analysis:** Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash
+Please retry in 52.889007726s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 52
+}
+]. Available: ['models/gemini-2.5-flash', 'models/gemini-2.5-pro', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-exp-1206', 'models/gemini-2.5-flash-preview-tts', 'models/gemini-2.5-pro-preview-tts', 'models/gemma-3-1b-it', 'models/gemma-3-4b-it', 'models/gemma-3-12b-it', 'models/gemma-3-27b-it', 'models/gemma-3n-e4b-it', 'models/gemma-3n-e2b-it', 'models/gemini-flash-latest', 'models/gemini-flash-lite-latest', 'models/gemini-pro-latest', 'models/gemini-2.5-flash-lite', 'models/gemini-2.5-flash-image', 'models/gemini-2.5-flash-preview-09-2025', 'models/gemini-2.5-flash-lite-preview-09-2025', 'models/gemini-3-pro-preview', 'models/gemini-3-flash-preview', 'models/gemini-3-pro-image-preview', 'models/nano-banana-pro-preview', 'models/gemini-robotics-er-1.5-preview', 'models/gemini-2.5-computer-use-preview-10-2025', 'models/deep-research-pro-preview-12-2025']
 
-### 2. JDST
-- **Price:** $1.80
-- **Change:** -12.20%
-- **Analysis:** JDST tracks the **leveraged inverse performance of junior gold miners**.
+### 3. SOXS
+- **Price:** $1.97
+- **Change:** -9.22%
+- **Analysis:** Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash
+Please retry in 52.593931612s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 52
+}
+]. Available: ['models/gemini-2.5-flash', 'models/gemini-2.5-pro', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-exp-1206', 'models/gemini-2.5-flash-preview-tts', 'models/gemini-2.5-pro-preview-tts', 'models/gemma-3-1b-it', 'models/gemma-3-4b-it', 'models/gemma-3-12b-it', 'models/gemma-3-27b-it', 'models/gemma-3n-e4b-it', 'models/gemma-3n-e2b-it', 'models/gemini-flash-latest', 'models/gemini-flash-lite-latest', 'models/gemini-pro-latest', 'models/gemini-2.5-flash-lite', 'models/gemini-2.5-flash-image', 'models/gemini-2.5-flash-preview-09-2025', 'models/gemini-2.5-flash-lite-preview-09-2025', 'models/gemini-3-pro-preview', 'models/gemini-3-flash-preview', 'models/gemini-3-pro-image-preview', 'models/nano-banana-pro-preview', 'models/gemini-robotics-er-1.5-preview', 'models/gemini-2.5-computer-use-preview-10-2025', 'models/deep-research-pro-preview-12-2025']
 
-Its significant drop indicates a strong rally in gold prices and mining stocks, likely driven by increasing safe-haven demand or renewed expectations of future interest rate cuts.
+### 4. VIXY
+- **Price:** $25.84
+- **Change:** -9.21%
+- **Analysis:** Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash
+Please retry in 52.375383565s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 52
+}
+]. Available: ['models/gemini-2.5-flash', 'models/gemini-2.5-pro', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-exp-1206', 'models/gemini-2.5-flash-preview-tts', 'models/gemini-2.5-pro-preview-tts', 'models/gemma-3-1b-it', 'models/gemma-3-4b-it', 'models/gemma-3-12b-it', 'models/gemma-3-27b-it', 'models/gemma-3n-e4b-it', 'models/gemma-3n-e2b-it', 'models/gemini-flash-latest', 'models/gemini-flash-lite-latest', 'models/gemini-pro-latest', 'models/gemini-2.5-flash-lite', 'models/gemini-2.5-flash-image', 'models/gemini-2.5-flash-preview-09-2025', 'models/gemini-2.5-flash-lite-preview-09-2025', 'models/gemini-3-pro-preview', 'models/gemini-3-flash-preview', 'models/gemini-3-pro-image-preview', 'models/nano-banana-pro-preview', 'models/gemini-robotics-er-1.5-preview', 'models/gemini-2.5-computer-use-preview-10-2025', 'models/deep-research-pro-preview-12-2025']
 
-### 3. DUST
-- **Price:** $5.11
-- **Change:** -11.13%
-- **Analysis:** DUST tracks the **inverse performance of the gold mining sector**, with 2x leverage.
-
-Its decline suggests that gold mining companies performed strongly, likely due to an increase in gold prices driven by factors such as geopolitical uncertainty or expectations of central bank easing.
-
-### 4. TECL
-- **Price:** $111.21
-- **Change:** -7.86%
-- **Analysis:** TECL tracks the **technology sector**, specifically aiming for 3x daily leveraged returns of the Technology Select Sector Index.
-
-Its decline likely stems from renewed market concerns over persistent inflation and the implications for higher interest rates, which typically depress valuations for growth-oriented technology stocks.
-
-### 5. NAIL
-- **Price:** $63.52
-- **Change:** -7.05%
-- **Analysis:** NAIL (Direxion Daily Homebuilders & Supplies Bull 3X Shares) tracks the **U.S. home construction and building materials sector** with 3x daily leverage.
-
-Its significant decline likely reflects recent concerns about rising interest rates negatively impacting housing demand and affordability.
+### 5. DRIP
+- **Price:** $7.89
+- **Change:** -7.29%
+- **Analysis:** Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash
+Please retry in 52.155745851s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 52
+}
+]. Available: ['models/gemini-2.5-flash', 'models/gemini-2.5-pro', 'models/gemini-2.0-flash-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-exp-image-generation', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.0-flash-lite-preview-02-05', 'models/gemini-2.0-flash-lite-preview', 'models/gemini-exp-1206', 'models/gemini-2.5-flash-preview-tts', 'models/gemini-2.5-pro-preview-tts', 'models/gemma-3-1b-it', 'models/gemma-3-4b-it', 'models/gemma-3-12b-it', 'models/gemma-3-27b-it', 'models/gemma-3n-e4b-it', 'models/gemma-3n-e2b-it', 'models/gemini-flash-latest', 'models/gemini-flash-lite-latest', 'models/gemini-pro-latest', 'models/gemini-2.5-flash-lite', 'models/gemini-2.5-flash-image', 'models/gemini-2.5-flash-preview-09-2025', 'models/gemini-2.5-flash-lite-preview-09-2025', 'models/gemini-3-pro-preview', 'models/gemini-3-flash-preview', 'models/gemini-3-pro-image-preview', 'models/nano-banana-pro-preview', 'models/gemini-robotics-er-1.5-preview', 'models/gemini-2.5-computer-use-preview-10-2025', 'models/deep-research-pro-preview-12-2025']
 
