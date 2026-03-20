@@ -1,55 +1,55 @@
-# Daily ETF Movers Watch - 2026-03-19
+# Daily ETF Movers Watch - 2026-03-20
 
 ## Top 5 ETF Gainers
-### 1. JDST
-- **Price:** $44.90
-- **Change:** +13.18%
-- **Analysis:** JDST is a leveraged inverse (2x) ETF that tracks the daily performance of the MVIS Global Junior Gold Miners Index.
+### 1. UVXY
+- **Price:** $54.10
+- **Change:** +10.45%
+- **Analysis:** The ETF UVXY tracks **volatility**, specifically a leveraged daily target on short-term VIX futures.
 
-Its significant rise indicates a notable decline in junior gold mining stocks, likely due to a stronger U.S. dollar and/or rising interest rate expectations making gold less attractive as a non-yielding asset.
+This surge likely reflects a significant increase in market volatility and investor uncertainty, often driven by concerns over persistent inflation, rising interest rates, or geopolitical events leading to broad market declines.
 
-### 2. DUST
-- **Price:** $65.14
-- **Change:** +11.77%
-- **Analysis:** The ETF DUST (Direxion Daily Gold Miners Index Bear 2X Shares) tracks the **inverse performance of gold mining companies**.
+### 2. DRV
+- **Price:** $26.13
+- **Change:** +9.61%
+- **Analysis:** The ETF DRV (Direxion Daily Real Estate Bear 3X Shares) tracks the **inverse (bearish) performance of the U.S. real estate sector**, specifically the Real Estate Select Sector Index, with 3x leverage.
 
-Its significant rise likely reflects a downturn in the gold mining sector, driven by factors such as rising interest rates or a strengthening dollar making gold less attractive to investors.
+The 9.61% rise suggests a significant downturn in the underlying real estate sector, likely driven by renewed concerns over rising interest rates and their potential negative impact on property values, affordability, and commercial real estate demand.
 
-### 3. NRGU
-- **Price:** $42.25
-- **Change:** +3.88%
-- **Analysis:** NRGU is a 3x leveraged ETN that tracks the **U.S. Big Oil Index** within the **energy sector**.
+### 3. YANG
+- **Price:** $31.47
+- **Change:** +8.55%
+- **Analysis:** The ETF YANG is a **2x leveraged inverse ETF** that tracks the performance of the **CSI 300 Index**, representing large and liquid Chinese A-share stocks.
 
-The likely reason for this move is rising crude oil prices, driven by recent geopolitical tensions or supply concerns.
+The move likely reflects renewed concerns over China's economic recovery and property sector woes, which led to a significant decline in Chinese equities.
 
-### 4. ERX
-- **Price:** $96.58
-- **Change:** +3.29%
-- **Analysis:** ERX is a **leveraged ETF that tracks the energy sector**.
+### 4. JDST
+- **Price:** $48.25
+- **Change:** +7.46%
+- **Analysis:** JDST tracks a **3x inverse daily leveraged performance of junior gold mining companies**, specifically the MVIS Global Junior Gold Miners Index.
 
-The likely reason for this move is strength in crude oil prices, spurred by ongoing geopolitical concerns and a generally firm demand outlook.
+Its 7.46% rise suggests a significant decline in junior gold mining stocks, likely driven by a strengthening US dollar and rising Treasury yields making non-yielding gold less attractive.
 
-### 5. LABU
-- **Price:** $150.01
-- **Change:** +2.65%
-- **Analysis:** LABU tracks the **biotechnology sector** with 3x leverage.
+### 5. VIXY
+- **Price:** $34.97
+- **Change:** +7.11%
+- **Analysis:** VIXY tracks a **strategy** tied to short-term futures contracts on the CBOE Volatility Index (VIX), representing general market volatility.
 
-The upward movement is likely driven by increasing market optimism for potential future interest rate cuts, which typically benefits growth-oriented sectors like biotechnology.
+The likely reason for this move is a significant increase in market uncertainty and risk perception, often driven by concerns over recent economic data, central bank policy outlook, or geopolitical developments, leading investors to anticipate higher near-term equity market turbulence.
 
 ## Top 5 ETF Losers
-### 1. JNUG
-- **Price:** $169.18
-- **Change:** -12.62%
-- **Analysis:** JNUG tracks **junior gold miners** (a sub-sector within the materials sector), utilizing a 2x leveraged daily bull strategy.
+### 1. DRN
+- **Price:** $8.37
+- **Change:** -9.42%
+- **Analysis:** The ETF DRN tracks the **real estate sector** with a 3x leveraged inverse strategy.
 
-The decline likely reflects a significant drop in gold prices, often driven by expectations of higher interest rates making non-yielding assets less attractive.
+Its decline suggests the real estate sector experienced a significant positive day, likely fueled by renewed optimism over potential interest rate cuts or a decline in bond yields.
 
-### 2. NUGT
-- **Price:** $156.80
-- **Change:** -11.57%
+### 2. YINN
+- **Price:** $31.22
+- **Change:** -8.53%
 - **Analysis:** Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
 * Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash
-Please retry in 52.97057846s. [links {
+Please retry in 12.970127585s. [links {
   description: "Learn more about Gemini API quotas"
   url: "https://ai.google.dev/gemini-api/docs/rate-limits"
 }
@@ -67,16 +67,16 @@ Please retry in 52.97057846s. [links {
   quota_value: 5
 }
 , retry_delay {
-  seconds: 52
+  seconds: 12
 }
 ]. Available: ['models/gemini-2.5-flash', 'models/gemini-2.5-pro', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.5-flash-preview-tts', 'models/gemini-2.5-pro-preview-tts', 'models/gemma-3-1b-it', 'models/gemma-3-4b-it', 'models/gemma-3-12b-it', 'models/gemma-3-27b-it', 'models/gemma-3n-e4b-it', 'models/gemma-3n-e2b-it', 'models/gemini-flash-latest', 'models/gemini-flash-lite-latest', 'models/gemini-pro-latest', 'models/gemini-2.5-flash-lite', 'models/gemini-2.5-flash-image', 'models/gemini-2.5-flash-lite-preview-09-2025', 'models/gemini-3-pro-preview', 'models/gemini-3-flash-preview', 'models/gemini-3.1-pro-preview', 'models/gemini-3.1-pro-preview-customtools', 'models/gemini-3.1-flash-lite-preview', 'models/gemini-3-pro-image-preview', 'models/nano-banana-pro-preview', 'models/gemini-3.1-flash-image-preview', 'models/gemini-robotics-er-1.5-preview', 'models/gemini-2.5-computer-use-preview-10-2025', 'models/deep-research-pro-preview-12-2025']
 
-### 3. GDX
-- **Price:** $82.90
-- **Change:** -5.91%
+### 3. NAIL
+- **Price:** $35.52
+- **Change:** -8.03%
 - **Analysis:** Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
 * Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash
-Please retry in 52.727152821s. [links {
+Please retry in 12.77511095s. [links {
   description: "Learn more about Gemini API quotas"
   url: "https://ai.google.dev/gemini-api/docs/rate-limits"
 }
@@ -94,16 +94,16 @@ Please retry in 52.727152821s. [links {
   quota_value: 5
 }
 , retry_delay {
-  seconds: 52
+  seconds: 12
 }
 ]. Available: ['models/gemini-2.5-flash', 'models/gemini-2.5-pro', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.5-flash-preview-tts', 'models/gemini-2.5-pro-preview-tts', 'models/gemma-3-1b-it', 'models/gemma-3-4b-it', 'models/gemma-3-12b-it', 'models/gemma-3-27b-it', 'models/gemma-3n-e4b-it', 'models/gemma-3n-e2b-it', 'models/gemini-flash-latest', 'models/gemini-flash-lite-latest', 'models/gemini-pro-latest', 'models/gemini-2.5-flash-lite', 'models/gemini-2.5-flash-image', 'models/gemini-2.5-flash-lite-preview-09-2025', 'models/gemini-3-pro-preview', 'models/gemini-3-flash-preview', 'models/gemini-3.1-pro-preview', 'models/gemini-3.1-pro-preview-customtools', 'models/gemini-3.1-flash-lite-preview', 'models/gemini-3-pro-image-preview', 'models/nano-banana-pro-preview', 'models/gemini-3.1-flash-image-preview', 'models/gemini-robotics-er-1.5-preview', 'models/gemini-2.5-computer-use-preview-10-2025', 'models/deep-research-pro-preview-12-2025']
 
-### 4. SLV
-- **Price:** $65.68
-- **Change:** -4.40%
+### 4. JNUG
+- **Price:** $155.67
+- **Change:** -7.99%
 - **Analysis:** Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
 * Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash
-Please retry in 52.569623281s. [links {
+Please retry in 12.615054595s. [links {
   description: "Learn more about Gemini API quotas"
   url: "https://ai.google.dev/gemini-api/docs/rate-limits"
 }
@@ -121,16 +121,16 @@ Please retry in 52.569623281s. [links {
   quota_value: 5
 }
 , retry_delay {
-  seconds: 52
+  seconds: 12
 }
 ]. Available: ['models/gemini-2.5-flash', 'models/gemini-2.5-pro', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.5-flash-preview-tts', 'models/gemini-2.5-pro-preview-tts', 'models/gemma-3-1b-it', 'models/gemma-3-4b-it', 'models/gemma-3-12b-it', 'models/gemma-3-27b-it', 'models/gemma-3n-e4b-it', 'models/gemma-3n-e2b-it', 'models/gemini-flash-latest', 'models/gemini-flash-lite-latest', 'models/gemini-pro-latest', 'models/gemini-2.5-flash-lite', 'models/gemini-2.5-flash-image', 'models/gemini-2.5-flash-lite-preview-09-2025', 'models/gemini-3-pro-preview', 'models/gemini-3-flash-preview', 'models/gemini-3.1-pro-preview', 'models/gemini-3.1-pro-preview-customtools', 'models/gemini-3.1-flash-lite-preview', 'models/gemini-3-pro-image-preview', 'models/nano-banana-pro-preview', 'models/gemini-3.1-flash-image-preview', 'models/gemini-robotics-er-1.5-preview', 'models/gemini-2.5-computer-use-preview-10-2025', 'models/deep-research-pro-preview-12-2025']
 
-### 5. GLDM
-- **Price:** $91.86
-- **Change:** -4.12%
+### 5. NUGT
+- **Price:** $145.54
+- **Change:** -7.18%
 - **Analysis:** Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
 * Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash
-Please retry in 52.404470842s. [links {
+Please retry in 12.453855664s. [links {
   description: "Learn more about Gemini API quotas"
   url: "https://ai.google.dev/gemini-api/docs/rate-limits"
 }
@@ -148,7 +148,7 @@ Please retry in 52.404470842s. [links {
   quota_value: 5
 }
 , retry_delay {
-  seconds: 52
+  seconds: 12
 }
 ]. Available: ['models/gemini-2.5-flash', 'models/gemini-2.5-pro', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-001', 'models/gemini-2.0-flash-lite-001', 'models/gemini-2.0-flash-lite', 'models/gemini-2.5-flash-preview-tts', 'models/gemini-2.5-pro-preview-tts', 'models/gemma-3-1b-it', 'models/gemma-3-4b-it', 'models/gemma-3-12b-it', 'models/gemma-3-27b-it', 'models/gemma-3n-e4b-it', 'models/gemma-3n-e2b-it', 'models/gemini-flash-latest', 'models/gemini-flash-lite-latest', 'models/gemini-pro-latest', 'models/gemini-2.5-flash-lite', 'models/gemini-2.5-flash-image', 'models/gemini-2.5-flash-lite-preview-09-2025', 'models/gemini-3-pro-preview', 'models/gemini-3-flash-preview', 'models/gemini-3.1-pro-preview', 'models/gemini-3.1-pro-preview-customtools', 'models/gemini-3.1-flash-lite-preview', 'models/gemini-3-pro-image-preview', 'models/nano-banana-pro-preview', 'models/gemini-3.1-flash-image-preview', 'models/gemini-robotics-er-1.5-preview', 'models/gemini-2.5-computer-use-preview-10-2025', 'models/deep-research-pro-preview-12-2025']
 
