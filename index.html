@@ -1,0 +1,226 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Daily Market Movers - 2026-04-11</title>
+        <style>
+            :root {
+                --bg-color: #0f172a;
+                --card-bg: #1e293b;
+                --text-main: #f8fafc;
+                --text-muted: #94a3b8;
+                --gainer: #22c55e;
+                --loser: #ef4444;
+                --accent: #38bdf8;
+                --watchlist: #f59e0b;
+            }
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+                background-color: var(--bg-color);
+                color: var(--text-main);
+                margin: 0;
+                padding: 0;
+                line-height: 1.6;
+            }
+            .container {
+                max-width: 1000px;
+                margin: 0 auto;
+                padding: 2rem;
+            }
+            header {
+                text-align: center;
+                margin-bottom: 3rem;
+                padding-bottom: 1rem;
+                border-bottom: 1px solid #334155;
+            }
+            h1 {
+                font-size: 2.5rem;
+                margin-bottom: 0.5rem;
+                background: linear-gradient(to right, #38bdf8, #818cf8);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+            }
+            .date { color: var(--text-muted); font-size: 1.1rem; }
+            
+            h2 {
+                font-size: 1.8rem;
+                margin-top: 2rem;
+                margin-bottom: 1rem;
+                display: flex;
+                align-items: center;
+                gap: 0.5rem;
+            }
+            .gainers-title { color: var(--gainer); }
+            .losers-title { color: var(--loser); }
+            .watchlist-title { color: var(--watchlist); }
+
+            .grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                gap: 1.5rem;
+                margin-bottom: 3rem;
+            }
+            .card {
+                background-color: var(--card-bg);
+                border-radius: 0.75rem;
+                padding: 1.5rem;
+                border: 1px solid #334155;
+                transition: transform 0.2s;
+            }
+            .card:hover { transform: translateY(-4px); border-color: var(--accent); }
+            
+            .ticker { font-size: 1.5rem; font-weight: 800; margin-bottom: 0.25rem; }
+            .price { font-size: 1.1rem; color: var(--text-main); font-weight: 500; }
+            .change { font-weight: 700; font-size: 1.2rem; margin-bottom: 1rem; }
+            .change.up { color: var(--gainer); }
+            .change.down { color: var(--loser); }
+            
+            .analysis-box {
+                background-color: rgba(15, 23, 42, 0.5);
+                padding: 1rem;
+                border-radius: 0.5rem;
+                font-size: 0.95rem;
+                border-left: 3px solid var(--accent);
+            }
+            .watchlist-card { border-top: 2px solid var(--watchlist); }
+            .watchlist-card .analysis-box { border-left-color: var(--watchlist); }
+            
+            footer {
+                text-align: center;
+                margin-top: 4rem;
+                padding-top: 2rem;
+                border-top: 1px solid #334155;
+                color: var(--text-muted);
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <h1>Market Mover Watch</h1>
+                <div class="date">2026-04-11 Report</div>
+            </header>
+
+            <h2 class="gainers-title">📈 Top ETF Gainers</h2>
+            <div class="grid">
+    
+                <div class="card">
+                    <div class="ticker">SOXL</div>
+                    <div class="price">$76.39</div>
+                    <div class="change up">+6.13%</div>
+                    <div class="analysis-box">Analysis unavailable (API key missing).</div>
+                </div>
+        
+                <div class="card">
+                    <div class="ticker">LABD</div>
+                    <div class="price">$15.60</div>
+                    <div class="change up">+5.33%</div>
+                    <div class="analysis-box">Analysis unavailable (API key missing).</div>
+                </div>
+        
+                <div class="card">
+                    <div class="ticker">FAZ</div>
+                    <div class="price">$46.55</div>
+                    <div class="change up">+3.31%</div>
+                    <div class="analysis-box">Analysis unavailable (API key missing).</div>
+                </div>
+        
+                <div class="card">
+                    <div class="ticker">SOXX</div>
+                    <div class="price">$386.60</div>
+                    <div class="change up">+2.10%</div>
+                    <div class="analysis-box">Analysis unavailable (API key missing).</div>
+                </div>
+        
+                <div class="card">
+                    <div class="ticker">NUGT</div>
+                    <div class="price">$219.27</div>
+                    <div class="change up">+1.95%</div>
+                    <div class="analysis-box">Analysis unavailable (API key missing).</div>
+                </div>
+        
+            </div>
+
+            <h2 class="losers-title">📉 Top ETF Losers</h2>
+            <div class="grid">
+    
+                <div class="card">
+                    <div class="ticker">SOXS</div>
+                    <div class="price">$23.69</div>
+                    <div class="change down">-5.99%</div>
+                    <div class="analysis-box">Analysis unavailable (API key missing).</div>
+                </div>
+        
+                <div class="card">
+                    <div class="ticker">LABU</div>
+                    <div class="price">$172.65</div>
+                    <div class="change down">-5.25%</div>
+                    <div class="analysis-box">Analysis unavailable (API key missing).</div>
+                </div>
+        
+                <div class="card">
+                    <div class="ticker">HACK</div>
+                    <div class="price">$71.17</div>
+                    <div class="change down">-4.85%</div>
+                    <div class="analysis-box">Analysis unavailable (API key missing).</div>
+                </div>
+        
+                <div class="card">
+                    <div class="ticker">CURE</div>
+                    <div class="price">$92.55</div>
+                    <div class="change down">-4.00%</div>
+                    <div class="analysis-box">Analysis unavailable (API key missing).</div>
+                </div>
+        
+                <div class="card">
+                    <div class="ticker">CIBR</div>
+                    <div class="price">$60.74</div>
+                    <div class="change down">-3.71%</div>
+                    <div class="analysis-box">Analysis unavailable (API key missing).</div>
+                </div>
+        
+            </div>
+
+            <h2 class="watchlist-title">🏎️ Motorsport & Luxury Watchlist</h2>
+            <div class="grid">
+    
+                <div class="card watchlist-card">
+                    <div class="ticker">RACE</div>
+                    <div class="price">$351.89</div>
+                    <div class="change down">-0.09%</div>
+                    <div class="analysis-box">No major move (>=2%) detected for analysis.</div>
+                </div>
+        
+                <div class="card watchlist-card">
+                    <div class="ticker">VWAGY</div>
+                    <div class="price">$10.67</div>
+                    <div class="change down">-0.56%</div>
+                    <div class="analysis-box">No major move (>=2%) detected for analysis.</div>
+                </div>
+        
+                <div class="card watchlist-card">
+                    <div class="ticker">FWONK</div>
+                    <div class="price">$88.77</div>
+                    <div class="change up">+0.15%</div>
+                    <div class="analysis-box">No major move (>=2%) detected for analysis.</div>
+                </div>
+        
+                <div class="card watchlist-card">
+                    <div class="ticker">LVMUY</div>
+                    <div class="price">$113.06</div>
+                    <div class="change down">-1.41%</div>
+                    <div class="analysis-box">No major move (>=2%) detected for analysis.</div>
+                </div>
+        
+            </div>
+            
+            <footer>
+                <p>AI-Powered Market Analysis Bot 🤖</p>
+                <p><a href="https://buymeacoffee.com/icecapades" target="_blank" style="color: #ffdd00; text-decoration: none; font-weight: bold;">☕ Buy me a coffee</a></p>
+            </footer>
+        </div>
+    </body>
+    </html>
+    
