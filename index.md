@@ -1,75 +1,75 @@
-# Daily Market Movers Watch - 2026-04-12
+# Daily Market Movers Watch - 2026-04-13
 
 ## 📈 Top 5 ETF Gainers
-### 1. SOXL
-- **Price:** $76.39
-- **Change:** +6.13%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 2. LABD
-- **Price:** $15.60
-- **Change:** +5.33%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 3. FAZ
-- **Price:** $46.55
-- **Change:** +3.31%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 4. SOXX
-- **Price:** $386.60
-- **Change:** +2.10%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 5. NUGT
-- **Price:** $219.27
-- **Change:** +1.95%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-## 📉 Top 5 ETF Losers
-### 1. SOXS
-- **Price:** $23.69
-- **Change:** -5.99%
+### 1. TECL
+- **Price:** $112.67
+- **Change:** +6.34%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ### 2. LABU
-- **Price:** $172.65
-- **Change:** -5.25%
+- **Price:** $182.70
+- **Change:** +5.82%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 3. HACK
-- **Price:** $71.17
-- **Change:** -4.85%
+### 3. SOXL
+- **Price:** $80.56
+- **Change:** +5.46%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 4. CURE
-- **Price:** $92.55
-- **Change:** -4.00%
+### 4. SKYY
+- **Price:** $109.42
+- **Change:** +5.05%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 5. CIBR
-- **Price:** $60.74
-- **Change:** -3.71%
+### 5. FAS
+- **Price:** $134.80
+- **Change:** +5.04%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+## 📉 Top 5 ETF Losers
+### 1. TECS
+- **Price:** $15.62
+- **Change:** -6.24%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 2. LABD
+- **Price:** $14.71
+- **Change:** -5.71%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 3. UVXY
+- **Price:** $39.57
+- **Change:** -5.61%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 4. SOXS
+- **Price:** $22.42
+- **Change:** -5.36%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 5. FAZ
+- **Price:** $44.21
+- **Change:** -5.03%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ## 🏎️ Motorsport & Luxury Watchlist
 ### RACE
-- **Price:** $351.89
-- **Change:** -0.09%
+- **Price:** $355.14
+- **Change:** +0.92%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### VWAGY
-- **Price:** $10.67
-- **Change:** -0.56%
+- **Price:** $10.63
+- **Change:** -0.37%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### FWONK
-- **Price:** $88.77
-- **Change:** +0.15%
-- **Analysis:** No major move (>=2%) detected for detailed analysis.
+- **Price:** $90.68
+- **Change:** +2.15%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ### LVMUY
-- **Price:** $113.06
-- **Change:** -1.41%
-- **Analysis:** No major move (>=2%) detected for detailed analysis.
+- **Price:** $109.70
+- **Change:** -2.97%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
