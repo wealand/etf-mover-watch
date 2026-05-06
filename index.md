@@ -1,75 +1,75 @@
-# Daily Market Movers Watch - 2026-05-05
+# Daily Market Movers Watch - 2026-05-06
 
 ## 📈 Top 5 ETF Gainers
-### 1. SOXL
-- **Price:** $144.16
-- **Change:** +13.02%
+### 1. JNUG
+- **Price:** $201.79
+- **Change:** +16.37%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 2. TECL
-- **Price:** $163.13
-- **Change:** +6.52%
+### 2. NRGD
+- **Price:** $29.15
+- **Change:** +16.04%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 3. EWY
-- **Price:** $173.47
-- **Change:** +6.04%
+### 3. NUGT
+- **Price:** $185.48
+- **Change:** +15.25%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 4. KOLD
-- **Price:** $25.85
-- **Change:** +5.30%
+### 4. SOXL
+- **Price:** $165.85
+- **Change:** +15.05%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 5. TNA
-- **Price:** $64.22
-- **Change:** +5.02%
+### 5. DRIP
+- **Price:** $4.60
+- **Change:** +12.75%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ## 📉 Top 5 ETF Losers
-### 1. SOXS
-- **Price:** $11.51
-- **Change:** -13.20%
+### 1. JDST
+- **Price:** $31.11
+- **Change:** -16.62%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 2. TECS
-- **Price:** $10.47
-- **Change:** -6.60%
+### 2. NRGU
+- **Price:** $35.25
+- **Change:** -16.61%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 3. BOIL
-- **Price:** $13.08
-- **Change:** -5.49%
+### 3. DUST
+- **Price:** $47.67
+- **Change:** -15.10%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 4. TZA
-- **Price:** $4.71
-- **Change:** -5.23%
+### 4. SOXS
+- **Price:** $9.81
+- **Change:** -14.77%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 5. SRTY
-- **Price:** $26.69
-- **Change:** -4.95%
+### 5. GUSH
+- **Price:** $37.53
+- **Change:** -12.37%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ## 🏎️ Motorsport & Luxury Watchlist
 ### RACE
-- **Price:** $325.44
-- **Change:** -3.97%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### VWAGY
-- **Price:** $10.09
-- **Change:** +1.00%
+- **Price:** $336.25
+- **Change:** +3.32%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
+### VWAGY
+- **Price:** $10.57
+- **Change:** +4.76%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
 ### FWONK
-- **Price:** $87.40
-- **Change:** -0.87%
+- **Price:** $88.66
+- **Change:** +1.44%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### LVMUY
-- **Price:** $105.27
-- **Change:** +1.42%
-- **Analysis:** No major move (>=2%) detected for detailed analysis.
+- **Price:** $111.87
+- **Change:** +6.54%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
