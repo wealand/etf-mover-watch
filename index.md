@@ -1,4 +1,4 @@
-# Daily Market Movers Watch - 2026-05-22
+# Daily Market Movers Watch - 2026-05-25
 
 ## 📈 Top 5 ETF Gainers
 ### 1. TUR
@@ -59,8 +59,8 @@
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### VWAGY
-- **Price:** $10.52
-- **Change:** -0.47%
+- **Price:** $10.55
+- **Change:** -0.19%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### FWONK
@@ -69,7 +69,7 @@
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### LVMUY
-- **Price:** $108.41
-- **Change:** -2.52%
+- **Price:** $108.61
+- **Change:** -2.34%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
