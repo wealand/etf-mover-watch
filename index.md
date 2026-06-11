@@ -1,75 +1,75 @@
-# Daily Market Movers Watch - 2026-06-10
+# Daily Market Movers Watch - 2026-06-11
 
 ## 📈 Top 5 ETF Gainers
-### 1. SOXS
-- **Price:** $6.57
-- **Change:** +10.79%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 2. JDST
-- **Price:** $47.96
-- **Change:** +10.13%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 3. DUST
-- **Price:** $69.47
-- **Change:** +9.85%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 4. UVXY
-- **Price:** $33.27
-- **Change:** +8.94%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 5. TECS
-- **Price:** $8.16
-- **Change:** +7.37%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-## 📉 Top 5 ETF Losers
 ### 1. SOXL
-- **Price:** $180.65
-- **Change:** -10.43%
+- **Price:** $223.99
+- **Change:** +23.99%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ### 2. JNUG
-- **Price:** $115.09
-- **Change:** -9.97%
+- **Price:** $130.97
+- **Change:** +13.80%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 3. NUGT
-- **Price:** $114.44
-- **Change:** -9.63%
+### 3. NAIL
+- **Price:** $43.98
+- **Change:** +13.32%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 4. NAIL
-- **Price:** $38.81
-- **Change:** -8.10%
+### 4. EWY
+- **Price:** $198.94
+- **Change:** +11.48%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ### 5. TECL
-- **Price:** $188.60
-- **Change:** -7.02%
+- **Price:** $210.15
+- **Change:** +11.43%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+## 📉 Top 5 ETF Losers
+### 1. SOXS
+- **Price:** $4.97
+- **Change:** -24.35%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 2. JDST
+- **Price:** $41.36
+- **Change:** -13.76%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 3. TECS
+- **Price:** $7.23
+- **Change:** -11.40%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 4. DUST
+- **Price:** $62.05
+- **Change:** -10.68%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 5. SQQQ
+- **Price:** $40.83
+- **Change:** -9.77%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ## 🏎️ Motorsport & Luxury Watchlist
 ### RACE
-- **Price:** $346.56
-- **Change:** -3.07%
+- **Price:** $365.62
+- **Change:** +5.50%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ### VWAGY
-- **Price:** $10.01
-- **Change:** -1.86%
+- **Price:** $10.11
+- **Change:** +1.10%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### FWONK
-- **Price:** $88.61
-- **Change:** +0.72%
+- **Price:** $90.42
+- **Change:** +2.04%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### LVMUY
-- **Price:** $112.18
-- **Change:** -1.56%
-- **Analysis:** No major move (>=2%) detected for detailed analysis.
+- **Price:** $117.19
+- **Change:** +4.40%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
