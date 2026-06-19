@@ -1,4 +1,4 @@
-# Daily Market Movers Watch - 2026-06-18
+# Daily Market Movers Watch - 2026-06-19
 
 ## 📈 Top 5 ETF Gainers
 ### 1. SOXL
@@ -54,9 +54,9 @@
 
 ## 🏎️ Motorsport & Luxury Watchlist
 ### RACE
-- **Price:** $362.13
-- **Change:** +2.22%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+- **Price:** $nan
+- **Change:** +nan%
+- **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### VWAGY
 - **Price:** $nan
