@@ -1,75 +1,75 @@
-# Daily Market Movers Watch - 2026-06-26
+# Daily Market Movers Watch - 2026-06-29
 
 ## 📈 Top 5 ETF Gainers
-### 1. SOXS
-- **Price:** $4.24
-- **Change:** +16.80%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 2. CURE
-- **Price:** $115.78
-- **Change:** +8.85%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 3. LABU
-- **Price:** $276.16
-- **Change:** +7.12%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 4. TECS
-- **Price:** $7.23
-- **Change:** +6.01%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 5. JNUG
-- **Price:** $126.15
-- **Change:** +4.87%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-## 📉 Top 5 ETF Losers
 ### 1. SOXL
-- **Price:** $215.60
-- **Change:** -14.65%
+- **Price:** $236.52
+- **Change:** +9.70%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 2. LABD
-- **Price:** $8.17
-- **Change:** -7.37%
+### 2. KOLD
+- **Price:** $23.53
+- **Change:** +8.03%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 3. SOXX
-- **Price:** $589.94
-- **Change:** -5.64%
+### 3. TQQQ
+- **Price:** $77.19
+- **Change:** +7.46%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ### 4. TECL
-- **Price:** $198.99
-- **Change:** -5.54%
+- **Price:** $213.81
+- **Change:** +7.45%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 5. DRV
-- **Price:** $17.63
-- **Change:** -4.29%
+### 5. LABU
+- **Price:** $291.68
+- **Change:** +5.62%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+## 📉 Top 5 ETF Losers
+### 1. SOXS
+- **Price:** $3.72
+- **Change:** -12.26%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 2. BOIL
+- **Price:** $26.44
+- **Change:** -7.75%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 3. SQQQ
+- **Price:** $38.16
+- **Change:** -7.63%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 4. TECS
+- **Price:** $6.69
+- **Change:** -7.47%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 5. LABD
+- **Price:** $7.71
+- **Change:** -5.63%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ## 🏎️ Motorsport & Luxury Watchlist
 ### RACE
 - **Price:** $368.34
-- **Change:** +4.58%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+- **Change:** +0.00%
+- **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### VWAGY
-- **Price:** $8.58
-- **Change:** -2.94%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+- **Price:** $8.41
+- **Change:** -1.98%
+- **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### FWONK
-- **Price:** $92.17
-- **Change:** +1.90%
+- **Price:** $93.48
+- **Change:** +1.42%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### LVMUY
-- **Price:** $112.48
-- **Change:** +0.41%
+- **Price:** $112.90
+- **Change:** +0.53%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
