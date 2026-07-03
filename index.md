@@ -1,4 +1,4 @@
-# Daily Market Movers Watch - 2026-07-02
+# Daily Market Movers Watch - 2026-07-03
 
 ## 📈 Top 5 ETF Gainers
 ### 1. SOXS
@@ -59,8 +59,8 @@
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ### VWAGY
-- **Price:** $8.50
-- **Change:** +2.04%
+- **Price:** $8.52
+- **Change:** +2.28%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### FWONK
@@ -69,7 +69,7 @@
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### LVMUY
-- **Price:** $113.88
-- **Change:** +4.05%
+- **Price:** $113.87
+- **Change:** +4.04%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
