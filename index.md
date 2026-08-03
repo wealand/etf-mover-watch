@@ -1,75 +1,75 @@
-# Daily Market Movers Watch - 2026-07-31
+# Daily Market Movers Watch - 2026-08-03
 
 ## 📈 Top 5 ETF Gainers
-### 1. LABD
-- **Price:** $9.34
-- **Change:** +8.48%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 2. JDST
-- **Price:** $41.91
-- **Change:** +7.27%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 3. DUST
-- **Price:** $63.42
-- **Change:** +6.62%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 4. XLY
-- **Price:** $116.09
-- **Change:** +3.29%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-### 5. NRGU
-- **Price:** $45.00
-- **Change:** +2.86%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
-
-## 📉 Top 5 ETF Losers
-### 1. LABU
-- **Price:** $227.40
-- **Change:** -8.60%
+### 1. NAIL
+- **Price:** $40.11
+- **Change:** +8.38%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ### 2. JNUG
-- **Price:** $111.08
-- **Change:** -7.15%
+- **Price:** $118.59
+- **Change:** +6.76%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 3. NUGT
-- **Price:** $110.82
-- **Change:** -6.72%
+### 3. NRGD
+- **Price:** $20.01
+- **Change:** +5.43%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 4. UVXY
-- **Price:** $23.27
-- **Change:** -4.24%
+### 4. NUGT
+- **Price:** $116.57
+- **Change:** +5.19%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
-### 5. NRGD
-- **Price:** $18.98
-- **Change:** -4.00%
+### 5. TQQQ
+- **Price:** $67.96
+- **Change:** +5.17%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+## 📉 Top 5 ETF Losers
+### 1. NRGU
+- **Price:** $41.88
+- **Change:** -6.93%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 2. JDST
+- **Price:** $39.10
+- **Change:** -6.70%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 3. USO
+- **Price:** $122.12
+- **Change:** -5.46%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 4. SQQQ
+- **Price:** $41.43
+- **Change:** -5.26%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+
+### 5. SRTY
+- **Price:** $22.37
+- **Change:** -5.09%
 - **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
 ## 🏎️ Motorsport & Luxury Watchlist
 ### RACE
-- **Price:** $393.87
-- **Change:** -0.97%
+- **Price:** $401.28
+- **Change:** +1.88%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### VWAGY
-- **Price:** $8.75
-- **Change:** -0.79%
+- **Price:** $8.82
+- **Change:** +0.80%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### FWONK
-- **Price:** $98.13
-- **Change:** -1.87%
+- **Price:** $97.74
+- **Change:** -0.40%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### LVMUY
-- **Price:** $109.86
-- **Change:** +0.38%
-- **Analysis:** No major move (>=2%) detected for detailed analysis.
+- **Price:** $112.10
+- **Change:** +2.34%
+- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
 
