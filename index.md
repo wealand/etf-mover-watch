@@ -1,75 +1,75 @@
-# Daily Market Movers Watch - 2026-08-10
+# Daily Market Movers Watch - 2026-08-11
 
 ## 📈 Top 5 ETF Gainers
-### 1. NRGU
-- **Price:** $44.52
-- **Change:** +15.77%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+### 1. YANG
+- **Price:** $28.07
+- **Change:** +6.89%
+- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use a newe
 
-### 2. GUSH
-- **Price:** $39.22
-- **Change:** +11.29%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+### 2. NAIL
+- **Price:** $44.13
+- **Change:** +6.23%
+- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use a newe
 
-### 3. ERX
-- **Price:** $96.51
-- **Change:** +9.37%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+### 3. NRGU
+- **Price:** $46.93
+- **Change:** +5.41%
+- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use a newe
 
-### 4. BOIL
-- **Price:** $20.71
-- **Change:** +8.32%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+### 4. GUSH
+- **Price:** $40.32
+- **Change:** +2.80%
+- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use a newe
 
-### 5. SOXS
-- **Price:** $45.21
-- **Change:** +7.44%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+### 5. DRV
+- **Price:** $19.14
+- **Change:** +2.63%
+- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use a newe
 
 ## 📉 Top 5 ETF Losers
-### 1. NRGD
-- **Price:** $18.41
-- **Change:** -15.81%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+### 1. YINN
+- **Price:** $30.07
+- **Change:** -6.90%
+- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use a newe
 
-### 2. DRIP
-- **Price:** $39.96
-- **Change:** -11.40%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+### 2. NRGD
+- **Price:** $17.32
+- **Change:** -5.90%
+- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use a newe
 
-### 3. ERY
-- **Price:** $10.08
-- **Change:** -9.35%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+### 3. KWEB
+- **Price:** $28.09
+- **Change:** -3.54%
+- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use a newe
 
-### 4. KOLD
-- **Price:** $28.64
-- **Change:** -8.26%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+### 4. EWZ
+- **Price:** $33.98
+- **Change:** -3.44%
+- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use a newe
 
-### 5. NAIL
-- **Price:** $41.54
-- **Change:** -7.75%
-- **Analysis:** Analysis error: 429 You exceeded your current quota, please check your plan and billing details. For more informatio
+### 5. DRIP
+- **Price:** $38.84
+- **Change:** -2.80%
+- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use a newe
 
 ## 🏎️ Motorsport & Luxury Watchlist
 ### RACE
-- **Price:** $406.77
-- **Change:** -1.33%
+- **Price:** $410.26
+- **Change:** +0.86%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### VWAGY
-- **Price:** $8.77
-- **Change:** -1.13%
+- **Price:** $8.78
+- **Change:** +0.11%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### FWONK
-- **Price:** $102.73
-- **Change:** -0.12%
+- **Price:** $102.38
+- **Change:** -0.34%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### LVMUY
-- **Price:** $111.25
-- **Change:** +0.08%
+- **Price:** $110.30
+- **Change:** -0.81%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
