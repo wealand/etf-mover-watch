@@ -1,4 +1,4 @@
-# Daily Market Movers Watch - 2026-09-04
+# Daily Market Movers Watch - 2026-09-07
 
 ## 📈 Top 5 ETF Gainers
 ### 1. SOXL
@@ -59,8 +59,8 @@
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### VWAGY
-- **Price:** $9.44
-- **Change:** +0.43%
+- **Price:** $9.43
+- **Change:** +0.32%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### FWONK
@@ -69,7 +69,7 @@
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### LVMUY
-- **Price:** $99.82
-- **Change:** -0.37%
+- **Price:** $99.75
+- **Change:** -0.44%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
