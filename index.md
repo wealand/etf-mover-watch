@@ -1,75 +1,75 @@
-# Daily Market Movers Watch - 2026-11-03
+# Daily Market Movers Watch - 2026-11-10
 
 ## 📈 Top 5 ETF Gainers
-### 1. NAIL
-- **Price:** $37.41
-- **Change:** +13.81%
+### 1. SOXL
+- **Price:** $56.20
+- **Change:** +22.25%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 2. NRGD
-- **Price:** $10.74
-- **Change:** +13.49%
+### 2. TECL
+- **Price:** $144.35
+- **Change:** +11.12%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 3. SOXS
-- **Price:** $58.09
-- **Change:** +11.54%
+### 3. BOIL
+- **Price:** $18.50
+- **Change:** +10.45%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 4. DRIP
-- **Price:** $31.76
-- **Change:** +10.16%
+### 4. TQQQ
+- **Price:** $57.58
+- **Change:** +10.20%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 5. TECS
-- **Price:** $71.20
-- **Change:** +9.54%
+### 5. JNUG
+- **Price:** $140.44
+- **Change:** +9.84%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
 ## 📉 Top 5 ETF Losers
-### 1. NRGU
-- **Price:** $63.61
-- **Change:** -14.40%
+### 1. SOXS
+- **Price:** $55.15
+- **Change:** -22.27%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 2. SOXL
-- **Price:** $68.17
-- **Change:** -11.52%
+### 2. UVXY
+- **Price:** $18.41
+- **Change:** -20.23%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 3. GUSH
-- **Price:** $46.57
-- **Change:** -9.71%
+### 3. VIXY
+- **Price:** $18.21
+- **Change:** -13.41%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 4. TECL
-- **Price:** $157.78
-- **Change:** -8.86%
+### 4. TECS
+- **Price:** $72.27
+- **Change:** -10.91%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 5. ERX
-- **Price:** $118.36
-- **Change:** -8.10%
+### 5. KOLD
+- **Price:** $28.89
+- **Change:** -10.42%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
 ## 🏎️ Motorsport & Luxury Watchlist
 ### RACE
-- **Price:** $403.09
-- **Change:** +1.79%
+- **Price:** $418.90
+- **Change:** +0.67%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### VWAGY
-- **Price:** $7.72
-- **Change:** +1.45%
+- **Price:** $7.80
+- **Change:** +1.69%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### FWONK
-- **Price:** $94.45
-- **Change:** +2.14%
-- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
+- **Price:** $108.01
+- **Change:** +1.58%
+- **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### LVMUY
-- **Price:** $88.27
-- **Change:** +2.45%
-- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
+- **Price:** $90.99
+- **Change:** +0.03%
+- **Analysis:** No major move (>=2%) detected for detailed analysis.
 
