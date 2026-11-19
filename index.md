@@ -1,75 +1,75 @@
-# Daily Market Movers Watch - 2026-11-18
+# Daily Market Movers Watch - 2026-11-19
 
 ## 📈 Top 5 ETF Gainers
-### 1. UVXY
-- **Price:** $22.68
-- **Change:** +10.90%
+### 1. NRGD
+- **Price:** $14.36
+- **Change:** +12.57%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 2. VIXY
-- **Price:** $21.01
-- **Change:** +7.41%
+### 2. JDST
+- **Price:** $35.89
+- **Change:** +12.16%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 3. FAZ
-- **Price:** $32.14
-- **Change:** +5.55%
+### 3. BOIL
+- **Price:** $20.25
+- **Change:** +11.63%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 4. TZA
-- **Price:** $51.43
-- **Change:** +4.36%
+### 4. DUST
+- **Price:** $49.95
+- **Change:** +11.55%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 5. DRV
-- **Price:** $19.14
-- **Change:** +4.36%
+### 5. DRIP
+- **Price:** $39.66
+- **Change:** +6.81%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
 ## 📉 Top 5 ETF Losers
-### 1. FAS
-- **Price:** $166.98
-- **Change:** -5.70%
+### 1. JNUG
+- **Price:** $87.94
+- **Change:** -12.15%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 2. NAIL
-- **Price:** $30.68
-- **Change:** -5.54%
+### 2. NUGT
+- **Price:** $102.32
+- **Change:** -11.95%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 3. TAN
-- **Price:** $38.12
-- **Change:** -5.17%
+### 3. KOLD
+- **Price:** $25.83
+- **Change:** -11.11%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 4. EFX
-- **Price:** $180.30
-- **Change:** -4.85%
+### 4. NRGU
+- **Price:** $45.67
+- **Change:** -10.53%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
-### 5. DRN
-- **Price:** $9.77
-- **Change:** -4.59%
+### 5. CURE
+- **Price:** $155.41
+- **Change:** -7.03%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
 ## 🏎️ Motorsport & Luxury Watchlist
 ### RACE
-- **Price:** $399.11
-- **Change:** -1.40%
-- **Analysis:** No major move (>=2%) detected for detailed analysis.
+- **Price:** $410.91
+- **Change:** +2.96%
+- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
 ### VWAGY
-- **Price:** $7.13
-- **Change:** -1.25%
+- **Price:** $7.02
+- **Change:** -1.54%
 - **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### FWONK
-- **Price:** $107.30
-- **Change:** -2.43%
-- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
+- **Price:** $107.34
+- **Change:** +0.04%
+- **Analysis:** No major move (>=2%) detected for detailed analysis.
 
 ### LVMUY
-- **Price:** $86.30
-- **Change:** -2.71%
-- **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
+- **Price:** $85.12
+- **Change:** -1.54%
+- **Analysis:** No major move (>=2%) detected for detailed analysis.
 
