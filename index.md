@@ -1,4 +1,4 @@
-# Daily Market Movers Watch - 2026-11-26
+# Daily Market Movers Watch - 2026-11-27
 
 ## 📈 Top 5 ETF Gainers
 ### 1. NAIL
@@ -59,8 +59,8 @@
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
 ### VWAGY
-- **Price:** $7.14
-- **Change:** +4.69%
+- **Price:** $7.15
+- **Change:** +4.84%
 - **Analysis:** Analysis error: 404 This model models/gemini-2.0-flash is no longer available. Please update your code to use models
 
 ### FWONK
